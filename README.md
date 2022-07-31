@@ -1,0 +1,1 @@
+# An attendance management system built using django. Here, both teacher and student can view a student's previous attendance records and generate reports based on them. When a student's absenties cross a certain threshold count, a warning mesage will be sent to their guardian.
